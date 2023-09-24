@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BlueDatePicker">
+        <item name="android:headerBackground">#525BFF</item>
+        <item name="android:calendarTextColor">#000000</item>
+        <item name="android:dayOfWeekBackground">#525BFF</item>
+        <item name="android:yearListSelectorColor">#525BFF</item>
+    </style>
+
+</resources>

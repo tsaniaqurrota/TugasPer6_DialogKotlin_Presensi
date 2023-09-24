@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TugasPer6_DialogKotlin_Presensi" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#525BFF</item>
+    </style>
+
+
+    <style name="Theme.TugasPer6_DialogKotlin_Presensi" parent="Base.Theme.TugasPer6_DialogKotlin_Presensi" />
+</resources>
